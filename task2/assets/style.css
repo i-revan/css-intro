@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(49, 48, 48);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+h1{
+    color: rgb(107, 107, 212);
+}
+p{
+    color:white;
+}
+span{
+    color: yellow;
+}
+h3{
+    color: rgb(107, 107, 212);
+}
+li{
+    color: white;
+}
+.imdb{
+    color:red;
+}
+div{
+    color: white;
+}
+#p-1{
+    border-bottom: 1px solid grey;
+    padding-bottom: 10px;
+}
